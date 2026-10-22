@@ -1,0 +1,385 @@
+{
+  "serviceId": "glb-0107",
+  "name": "Czechia Drone A2 Prep",
+  "locale": "cs",
+  "packageId": "app.mcyj.examprep.glb0107",
+  "appStoreUrl": null,
+  "playUrl": "https://play.google.com/store/apps/details?id=app.mcyj.examprep.glb0107&hl=en&gl=US",
+  "officialSources": [
+    {
+      "label": "ÚCL: postup získání osvědčení pilota A2",
+      "url": "https://www.caa.gov.cz/provoz/bezpilotni-letadla/otevrena-kategorie-open/zpusobilost-pilotu-pro-provoz-v-podkategorii-provozu-a2/postup-zadosti-o-vydani-osvedceni-o-zpusobilosti-dalkove-ridiciho-pilota/"
+    },
+    {
+      "label": "ÚCL: Zkušební řád UAS CAA/S-SP-033-n/2021",
+      "url": "https://www.caa.gov.cz/wp-content/uploads/2023/03/CAA_S-SP-033-2_2021_Zkouskovy-rad-UAS.pdf"
+    },
+    {
+      "label": "ÚCL: oblasti teoretických znalostí pro A2",
+      "url": "https://www.caa.gov.cz/wp-content/uploads/2023/05/05_Oblasti-teoretickych-znalosti-potrebne-pro-zkousku-pro-podkategorii-A2_31-05-2023.pdf"
+    },
+    {
+      "label": "EASA: Easy Access Rules for Unmanned Aircraft Systems, červen2026",
+      "url": "https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-unmanned-aircraft-systems"
+    },
+    {
+      "label": "ÚCL: otevřená kategorie a geografické zóny",
+      "url": "https://www.caa.gov.cz/provoz/bezpilotni-letadla/otevrena-kategorie-open/provoz-v-ramci-otevrene-open-kategorie/"
+    },
+    {
+      "label": "DroneMap: aktuální geografické zóny",
+      "url": "https://dronemap.gov.cz/"
+    }
+  ],
+  "sourceCheckedAt": "2026-10-23",
+  "hero": "Rozumějte letu. Zdůvodněte bezpečné rozhodnutí.",
+  "subtitle": "Nezávislá česká příprava na teorii A2: meteorologie, letové vlastnosti a snižování rizik na zemi.",
+  "features": [
+    "Deset kapitol s výklady a příklady",
+    "Denní procvičování osmi otázek",
+    "Cvičné zkoušky: 30 otázek a 40 minut, obsah bez připojení"
+  ],
+  "guides": [
+    {
+      "slug": "zkouska-a2-prehled",
+      "title": "Zkouška pilota dronu A2 v Česku: co vás čeká",
+      "description": "Rozlište přípravu, vstupní podmínky a samotnou teoretickou zkoušku, než si sestavíte studijní plán.",
+      "sections": [
+        [
+          "Nejdříve ujasněte cíl",
+          "A2 je podkategorií otevřené kategorie provozu, nikoli názvem každého letu s dronem. ÚCL popisuje samostatný postup získání příslušného osvědčení. Začněte proto tím, že si ověříte zamýšlený provoz, potřebné doklady a aktuální podmínky; výsledek cvičného testu sám o sobě žádné oprávnění nevytváří."
+        ],
+        [
+          "Tři tematické oblasti",
+          "ÚCL uvádí meteorologii, provádění letů bezpilotních letadel a technická i provozní opatření ke zmírnění rizik na zemi. Vytvořte pro ně tři oddíly poznámek. Ke každému pojmu přidejte vlastní krátký příklad a otázku, jak se projevuje při plánování letu, místo abyste pouze shromažďovali definice."
+        ],
+        [
+          "Formát a hranice úspěchu",
+          "Oficiální postup popisuje test s 30 otázkami a požaduje alespoň 75 procent bodů; zkušební řád stanoví 40 minut. V přípravě sledujte také nejasné správné odpovědi, nejen chyby. Uhodnutá odpověď může zlepšit skóre, ale neukazuje, zda dokážete vysvětlit rozhodující podmínku v jiném zadání."
+        ],
+        [
+          "Používejte přípravu jako zpětnou vazbu",
+          "Látku nejprve přečtěte, potom ji vlastními slovy vysvětlete a až následně řešte otázky. Aplikace nabízí výklady, vysvětlení a časované cvičení; oficiální průběh, termín a potřebné dokumenty ověřujte přímo u ÚCL. Před přihlášením si projděte aktuální stránku a propojený zkušební řád."
+        ]
+      ]
+    },
+    {
+      "slug": "od-a1-a3-k-a2",
+      "title": "Od A1/A3 k A2: předpoklady a praktické samostudium",
+      "description": "Sestavte přehled kroků, které předcházejí dodatečné teoretické zkoušce A2, a nesměšujte je s procvičováním v aplikaci.",
+      "sections": [
+        [
+          "Zapište si správné pořadí",
+          "Postup ÚCL začíná absolvováním online výcviku a zkoušky A1/A3, pokračuje praktickým samostudiem za podmínek A3 a jeho deklarací, následovanou dodatečnou zkouškou A2. Přepište si tyto kroky do kontrolního seznamu a u každého ponechte místo pro odkaz na aktuální oficiální pokyn."
+        ],
+        [
+          "Oddělte znalost od provedení",
+          "Přečtení textu o manévru není totéž jako získání praktické zkušenosti. Při přípravě si odděleně evidujte teoretická témata a skutečně splněné kroky praktického samostudia podle pokynů ÚCL. Tím zabráníte tomu, aby dokončená kapitola v aplikaci působila jako důkaz splnění odlišného požadavku."
+        ],
+        [
+          "Pracujte s platnými pokyny",
+          "Použijte dokument, na který odkazuje aktuální postup ÚCL, a seznamte se s ním před plánováním praktické části. Nedomýšlejte si požadavky z příběhů jiných uchazečů. Pokud nerozumíte konkrétnímu bodu nebo vlastní situaci, zapište dotaz a ověřte jej u příslušného úřadu před dalším krokem."
+        ],
+        [
+          "Připravte si přehled dokladů",
+          "Před rezervací termínu zkontrolujte, jaké doklady jsou v aktuálním systému vyžadovány a kde se předkládají. Názvy souborů a data platnosti si zaznamenejte přehledně. Doklady uchovávejte bezpečně a odděleně od běžných studijních poznámek. V kontrolním seznamu zaznamenejte pouze to, zda je příslušný požadavek splněn."
+        ]
+      ]
+    },
+    {
+      "slug": "meteorologie-priprava",
+      "title": "Meteorologie pro A2: učte se souvislosti, ne izolovaná čísla",
+      "description": "Propojte počasí, prostředí a možnosti dronu pomocí vlastních vysvětlení a porovnání podmínek.",
+      "sections": [
+        [
+          "Začněte přehledem pojmů",
+          "Sepište pojmy z meteorologické části veřejného sylabu a u každého označte, zda rozumíte významu, dokážete jej rozpoznat v popisu a umíte vysvětlit jeho dopad na plánování. Tyto tři schopnosti se nemusí vyvíjet stejně. Nejasnou definici doplňte před řešením dlouhé série testových otázek."
+        ],
+        [
+          "Porovnávejte dvě situace",
+          "Vymyslete jednoduché dvě varianty prostředí, které se liší jedním faktorem, například změnou větru během plánovaného letu. Vysvětlete, co byste potřebovali ověřit z předpovědi a dokumentace výrobce. Cílem studijního příkladu je pochopit vztah, nikoli stanovit univerzální limit použitelný pro všechny drony a lokality."
+        ],
+        [
+          "U každého čísla napište souvislost",
+          "Pokud učební materiál uvádí rychlost, teplotu nebo jiný údaj, dopište jednotku, zdroj a podmínku platnosti. Číslo bez těchto údajů se snadno zamění s jiným pravidlem nebo vlastností konkrétního stroje. Ve zkoušce hledejte, na co se zadání skutečně ptá, dříve než začnete porovnávat hodnoty."
+        ],
+        [
+          "Vracejte se k nejistým odpovědím",
+          "Po cvičení nerozlišujte jen správně a chybně. Vytvořte třetí skupinu odpovědí vybraných bez jistoty a vysvětlete je znovu s odstupem. Aktuální provozní rozhodnutí vždy vyžaduje skutečné podmínky, údaje výrobce a příslušná pravidla; studijní aplikace neposkytuje předpověď ani rozhodnutí o bezpečnosti konkrétního letu."
+        ]
+      ]
+    },
+    {
+      "slug": "letove-vlastnosti-a-vykony",
+      "title": "Letové vlastnosti a výkony: jak spojit teorii s podmínkami",
+      "description": "Studijní postup pro hmotnost, zatížení, energii a dokumentaci dronu bez odhadování univerzálních provozních limitů.",
+      "sections": [
+        [
+          "Najděte vstupy a výsledek",
+          "U každého výkonnostního příkladu si napište, které vstupy zadání poskytuje a co má být výsledkem. Zvlášť označte údaje o stroji, okolním prostředí a zamýšleném průběhu letu. Takové rozdělení pomáhá rozpoznat, zda odpověď skutečně vychází z dostupných informací, nebo jen doplňuje nevyřčený předpoklad."
+        ],
+        [
+          "Sledujte změnu jedné podmínky",
+          "Pro lepší pochopení vytvořte dvojici příkladů, v níž změníte pouze zatížení nebo jinou sledovanou veličinu. Popište směr očekávaného vlivu a co by bylo třeba ověřit v dokumentaci. Nezaměňujte vlastní výklad vztahu za přesný výpočet konkrétního dronu bez odpovídajících údajů výrobce."
+        ],
+        [
+          "Čtěte jednotky a omezení",
+          "Při čtení tabulek či výpočtů si nejprve ověřte jednotky, podmínky měření a význam uvedené hodnoty. Maximální údaj a doporučený provozní postup nejsou automaticky totéž. V poznámce ponechte i zdroj a kontext, aby se z jednoho výkladu nestal nepodložený obecný limit."
+        ],
+        [
+          "Vysvětlete chybu před další otázkou",
+          "Pokud odpověď nevyšla, určete, zda šlo o záměnu veličiny, nesprávnou jednotku nebo přehlédnutou podmínku. Opravte tento konkrétní krok a úlohu později vyřešte znovu. Deset tematických kapitol v aplikaci může pomoci vracet se k výkladu před testem, nikoli jen opakovat pořadí možností."
+        ]
+      ]
+    },
+    {
+      "slug": "rizika-na-zemi",
+      "title": "Rizika na zemi: jak číst situační otázky A2",
+      "description": "Rozlišujte osoby, prostor, vlastnosti dronu a proměnlivé podmínky v zadáních o zmírňování rizik.",
+      "sections": [
+        [
+          "Oddělte popis od závěru",
+          "Při čtení otázky nejprve vypište, co je o místě a osobách skutečně uvedeno. Teprve potom zvažte příslušné pravidlo. Častou chybou je doplnit si známou situaci a vybrat odpověď pro jiný případ. Vysvětlení správné volby musí vycházet z textu zadání, ne z domněnky."
+        ],
+        [
+          "Propojte technická a provozní opatření",
+          "Do dvou sloupců si zapisujte vlastnosti systému a kroky při plánování či provedení provozu. U vlastního příkladu vysvětlete, jak oba druhy opatření souvisejí. Žádnou jednotlivou funkci dronu nepovažujte za automatické splnění všech podmínek; konečný postup závisí na platném pravidle i konkrétním prostředí."
+        ],
+        [
+          "Vyhledejte rozhodující podmínku",
+          "Jestliže jsou dvě možnosti podobné, najděte v nich jediný rozdíl a porovnejte jej se zadáním. Může jít o jiný druh osoby, nastavení nebo prostorovou podmínku. Při opakování si zapisujte právě toto rozlišení. Celé přepsané zadání často zakryje to, co bylo skutečnou příčinou nejistoty."
+        ],
+        [
+          "Nepřevádějte test na univerzální instrukci",
+          "Studijní otázka vysvětluje omezený problém. Před skutečným letem potřebujete ověřit všechny použitelné požadavky, aktuální zóny a pokyny výrobce. Osvědčení A2 ani dokončený test v aplikaci nenahrazují takovou kontrolu. U nejasné právní otázky použijte aktuální zdroj ÚCL či EASA a vyžádejte potřebné vysvětlení."
+        ]
+      ]
+    },
+    {
+      "slug": "aktualni-pravidla-a-dronemap",
+      "title": "Jak hlídat aktuálnost pravidel a pracovat s DroneMap",
+      "description": "Oddělte stálé studijní poznámky od informací, které je nutné ověřovat pro konkrétní místo a čas.",
+      "sections": [
+        [
+          "Nedělejte z kopie aktuální zdroj",
+          "Základní studijní poznámka může být užitečná měsíce, ale uložený obrázek mapy neprokazuje podmínky v den provozu. Označujte datum a původ informace a ponechte odkaz na aktuální stránku. Při opakování tak poznáte rozdíl mezi vysvětlením pravidla a údajem, který může být časově omezený."
+        ],
+        [
+          "Začínejte u oficiálního odkazu",
+          "ÚCL odkazuje pro identifikaci geografických zón na DroneMap. Před skutečným použitím čtěte i podmínky příslušné zóny, ne pouze její zakreslení. Pro studium si nacvičte, jak se dostat z oficiálního přehledu k podrobnému zdroji a kde hledat význam jeho označení."
+        ],
+        [
+          "U pravidla uchovejte verzi",
+          "Při zápisu čísel a výjimek ponechte název předpisu, konkrétní ustanovení a datum ověření. Starší materiály mohou obsahovat přechodná období, která už skončila. Pokud dvě poznámky vypadají rozporně, zkontrolujte nejprve data a působnost, než jednu z nich bez vysvětlení smažete nebo začnete memorovat."
+        ],
+        [
+          "Přehled kontrol průběžně obnovujte",
+          "Vytvořte si krátký seznam zdrojů pro pravidla, místní podmínky a dokumentaci výrobce. Při změně doplňte důvod opravy do vlastní poznámky a vraťte se k otázkám, které se jí týkaly. Offline učební obsah je vhodný k opakování, nikoli k potvrzení živé situace na konkrétním místě."
+        ]
+      ]
+    },
+    {
+      "slug": "letecke-pojmy",
+      "title": "Letecké pojmy pro A2: od slovníčku k porozumění",
+      "description": "Používejte termíny v souvislostech a ověřte si, že rozumíte rozdílu mezi podobnými výrazy.",
+      "sections": [
+        [
+          "Definujte pojem bez opakování názvu",
+          "Na kartičku napište pojem a vlastní jednoduché vysvětlení. Pokud vysvětlení jen přeformuluje stejná slova, vraťte se k učebnímu textu. Přidejte krátkou otázku, v jaké části plánování nebo popisu letu pojem využijete. Tím propojujete slovní zásobu s konkrétními vztahy v látce."
+        ],
+        [
+          "Srovnávejte podobné výrazy",
+          "Dva snadno zaměnitelné pojmy umístěte vedle sebe a vyznačte jeden podstatný rozdíl. Místo dlouhých definic napište, co by se změnilo v jednoduchém příkladu, kdybyste jeden nahradili druhým. Pokud rozdíl neumíte ukázat, ponechte oba termíny mezi položkami k dalšímu ověření."
+        ],
+        [
+          "Hlídejte jazyk a kontext",
+          "Při použití anglického manuálu si uchovejte původní označení i české vysvětlení. Stejný překlad se může v různých dokumentech používat jinak. Zvláštní pozornost věnujte tomu, zda text popisuje právní požadavek, vlastnost konkrétního výrobku nebo doporučení; tyto úrovně se při zapamatování nesmějí slít do jediné věty."
+        ],
+        [
+          "Označujte skutečně známé pojmy",
+          "Vyhledávání a označování známých pojmů v aplikaci využívejte až po vlastní odpovědi, ne před ní. Ke známému slovu se po několika dnech vraťte bez nápovědy. Jestliže jej poznáte, ale nevysvětlíte, zařaďte jej zpět do opakování; pocit známosti není stejný jako schopnost rozhodnout podle významu."
+        ]
+      ]
+    },
+    {
+      "slug": "cvicna-zkouska-30-otazek",
+      "title": "Cvičná zkouška 30 otázek: jak využít 40 minut",
+      "description": "Nastavte pravidla samostatného pokusu, sledujte důvody nejistoty a převádějte výsledek na konkrétní úkoly.",
+      "sections": [
+        [
+          "Předem si určete podmínky",
+          "Jednu cvičnou zkoušku proveďte bez přerušování, poznámek a průběžného otevírání vysvětlení. Před spuštěním si vyhraďte klidný čas a ověřte, že rozumíte ovládání. Účelem není vytvořit dojem oficiálního přezkoušení, ale zjistit, jak samostatně reagujete na zadání a omezený čas."
+        ],
+        [
+          "Sledujte, proč se zdržujete",
+          "Při tréninku si po dokončení poznamenejte, zda nejvíce času zabral neznámý termín, složitá formulace nebo rozhodování mezi dvěma variantami. Průměrný čas na otázku sám o sobě neříká, co zlepšit. Důvod zdržení vám ukáže, zda potřebujete číst výklad, procvičit porovnání podmínek nebo upravit tempo."
+        ],
+        [
+          "Nespěchejte k dalšímu skóre",
+          "Než spustíte novou sadu, projděte nesprávné i nejisté správné odpovědi. Vlastními slovy uveďte rozhodující pravidlo a vysvětlete, proč jiné možnosti neplatí. Pokud to nejde, nejprve otevřete příslušnou kapitolu nebo oficiální zdroj. Další pokus bez takové opravy může pouze upevnit nejasnost."
+        ],
+        [
+          "Porovnávejte výkony s odstupem",
+          "Stejnou látku ověřte znovu až po intervalu a pokud možno v jiném pořadí. Sledujte stabilitu porozumění, ne jen nejvyšší dosažený výsledek. Cvičné výsledky nejsou osvědčením ani zárukou úspěchu; mají vám ukázat, který konkrétní krok nebo pojem ještě potřebuje práci."
+        ]
+      ]
+    },
+    {
+      "slug": "dvoutydenni-studijni-plan",
+      "title": "Dvoutýdenní studijní plán A2, který lze upravit",
+      "description": "Propojte vstupní diagnostiku, tři oblasti sylabu, slovníček a časované opakování podle vlastní výchozí úrovně.",
+      "sections": [
+        [
+          "Začněte měřením výchozího stavu",
+          "Dva týdny jsou ukázkový rámec, nikoli slib dostatečné přípravy pro každého. První den projděte veřejný sylabus a několik smíšených otázek. Označte neznámé termíny a témata, která nedokážete vysvětlit. Rozvrh upravte podle skutečně dostupného času a hotových vstupních podmínek, ne podle počtu dnů v kalendáři."
+        ],
+        [
+          "První týden střídejte čtení a vybavení",
+          "Každý den zvolte jedno hlavní téma, přečtěte výklad a potom jej vysvětlete bez předlohy. Krátké denní procvičování používejte k odhalování mezer. Na konci sezení se vraťte k několika dřívějším chybám, aby nová kapitola nepřekryla pojmy, které ještě nebyly upevněné."
+        ],
+        [
+          "Druhý týden propojte oblasti",
+          "Zařaďte celé časované pokusy a mezi nimi opravujte konkrétní důvody chyb. Nestavte celý týden jen na testování: nejasné vysvětlení potřebuje také čtení a vlastní příklad. Zvlášť označte právní nebo časově proměnlivou informaci, kterou je před zkouškou nutné ověřit v aktuálním zdroji."
+        ],
+        [
+          "Poslední den udržte přehled",
+          "Připravte si dokumenty a potvrzené organizační informace, zopakujte krátký seznam slabých míst a omezte přidávání nových materiálů. Příliš mnoho současně otevřených přehledů může ztížit rozhodování, který je aktuální. Ponechte si jednu hlavní sadu poznámek s odkazy a přehledně označenými otázkami k dořešení."
+        ]
+      ]
+    },
+    {
+      "slug": "den-zkousky-a-dalsi-kroky",
+      "title": "Den zkoušky A2: kontrolní seznam a další kroky",
+      "description": "Připravte se na praktickou organizaci zkoušky a proměňte výsledek v další postup bez kopírování oficiálních otázek.",
+      "sections": [
+        [
+          "Potvrďte organizační údaje",
+          "S předstihem zkontrolujte termín, místo, pokyny k příchodu a doklady podle aktuálního sdělení ÚCL. Přístup do studijní aplikace ani nákup jiné služby nenahrazují rezervaci oficiální zkoušky. Nejasnost řešte předem a neponechávejte administrativní problém až na začátek přezkoušení."
+        ],
+        [
+          "Čtěte zadání jako nový případ",
+          "U každé otázky nejprve určete, na co se ptá a jaké podmínky výslovně uvádí. Nepředpokládejte stejnou odpověď jen proto, že vám text připomíná cvičný příklad. Soustřeďte se na význam omezujících slov a vazbu mezi osobou, prostorem a vlastnostmi systému uvedenými v zadání."
+        ],
+        [
+          "Výsledek zpracujte poctivě",
+          "Pokud zkouška odhalí mezery, napište si témata, kterým se budete věnovat, nikoli znění úředních otázek. Zkušební řád omezuje pořizování záznamů a sdílení informací o otázkách. Pro další učení využijte veřejný sylabus, aktuální pravidla a nezávisle vytvořené příklady."
+        ],
+        [
+          "Osvědčení je začátek průběžného ověřování",
+          "Po úspěchu sledujte platnost dokladů a změny použitelných pravidel. Před konkrétním provozem nadále potřebujete aktuální informace o místě, podmínkách a použitém systému. Studijní poznámky udržujte jako vysvětlení pojmů; proměnlivé údaje kontrolujte v oficiálních zdrojích namísto spoléhání na starý snímek nebo uloženou odpověď."
+        ]
+      ]
+    }
+  ],
+  "iconFile": "app-icon.jpg",
+  "screenFiles": [
+    {
+      "ext": "jpg",
+      "width": 333,
+      "height": 592
+    },
+    {
+      "ext": "jpg",
+      "width": 333,
+      "height": 592
+    },
+    {
+      "ext": "jpg",
+      "width": 333,
+      "height": 592
+    }
+  ],
+  "repository": "czech-drone-a2-study-web",
+  "studyHeading": "Procvičte otázku a vysvětlete její důvod.",
+  "guideHeading": "Od pravidel ke smysluplnému opakování",
+  "guideIntro": "Deset studijních průvodců vychází z aktuálních oficiálních zdrojů. Spojte teorii s rozborem chyb a bezpečným praktickým výcvikem.",
+  "closing": "Připravujte se po srozumitelných krocích.",
+  "faqIntro": "Odpovědi o aplikaci, oficiální zkoušce a přípravě.",
+  "policies": {
+    "privacy": [
+      [
+        "Tento web",
+        "Statický web nemá účet, kontaktní formulář, reklamní cookies ani analytiku. GitHub Pages může zpracovávat technické údaje pro přenos a zabezpečení."
+      ],
+      [
+        "Aplikace a obchod",
+        "Informace o údajích aplikace a podmínkách nákupu najdete na aktuální stránce obchodu a v zásadách ochrany soukromí. Web neshromažďuje platební ani studijní údaje."
+      ],
+      [
+        "E-mail",
+        "Uveďte název, verzi, zařízení a postup k vyvolání chyby. Neposílejte hesla, platební údaje ani citlivé osobní informace."
+      ]
+    ],
+    "terms": [
+      [
+        "Nezávislá příprava",
+        "Průvodci slouží k samostatnému studiu. Nekopírují oficiální zkoušku a nezaručují její úspěšné složení."
+      ],
+      [
+        "Oficiální informace",
+        "Aktuální pokyny úřadu mají přednost v otázkách termínů, poplatků, způsobilosti a pravidel. Praktický výcvik provádějte bezpečně a podle požadavků."
+      ],
+      [
+        "Nákup aplikace",
+        "Cenu a rozsah přístupu ověřte na stránce obchodu. Správu nákupů a vrácení plateb řeší příslušný obchod."
+      ]
+    ],
+    "support": [
+      [
+        "Technická podpora",
+        "Pošlete název produktu, verzi aplikace, systém a postup k vyvolání problému bez osobních údajů."
+      ],
+      [
+        "Úřední záležitosti",
+        "Podmínky zkoušky, registraci a výsledky ověřte u příslušného úřadu. Podpora aplikace nevydává úřední rozhodnutí."
+      ]
+    ],
+    "contact": [
+      [
+        "RushLabs",
+        "Na níže uvedený e-mail posílejte technické dotazy. Registraci ke zkoušce a oprávnění řešte s příslušným úřadem."
+      ]
+    ]
+  },
+  "theme": {
+    "ink": "#082b43",
+    "primary": "#007da8",
+    "accent": "#a9e8f1"
+  },
+  "variant": "flight",
+  "kicker": "Czechia Drone A2 Prep",
+  "panelCaption": "VYDANÁ APLIKACE",
+  "screenCaptions": [
+    "Deset kapitol s výklady a příklady",
+    "Denní procvičování osmi otázek",
+    "Cvičné zkoušky: 30 otázek a 40 minut, obsah bez připojení"
+  ],
+  "policyDescriptions": {
+    "privacy": "Statický web nemá účet, kontaktní formulář, reklamní cookies ani analytiku. GitHub Pages může zpracovávat technické údaje pro přenos a zabezpečení.",
+    "terms": "Průvodci slouží k samostatnému studiu. Nekopírují oficiální zkoušku a nezaručují její úspěšné složení.",
+    "support": "Pošlete název produktu, verzi aplikace, systém a postup k vyvolání problému bez osobních údajů.",
+    "contact": "Na níže uvedený e-mail posílejte technické dotazy. Registraci ke zkoušce a oprávnění řešte s příslušným úřadem."
+  },
+  "faqs": [
+    [
+      "Je aplikace oficiální?",
+      "Jde o nezávislou studijní pomůcku od RushLabs, bez schválení zkušebním orgánem."
+    ],
+    [
+      "Jsou otázky oficiální?",
+      "Procvičování není oficiální zkouška ani rozhodnutí o oprávnění."
+    ],
+    [
+      "Jak mám začít?",
+      "Nejprve ověřte požadavky, pak střídejte teorii, otázky a rozbor chyb."
+    ],
+    [
+      "Kde stáhnu aplikaci?",
+      "Použijte aktivní odkaz do oficiálního obchodu a ověřte název a podmínky."
+    ],
+    [
+      "Nahrazuje aplikace praktický výcvik?",
+      "Ne. Praktický výcvik, sebehodnocení a oficiální kroky plňte samostatně podle požadavků."
+    ]
+  ]
+}

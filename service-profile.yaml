@@ -1,0 +1,14 @@
+service:
+  id: "glb-0107"
+  slug: "czech-drone-a2-study-web"
+  appName: "Czechia Drone A2 Prep"
+  supportEmail: "june1012june@gmail.com"
+  locales: ["cs"]
+app:
+  androidPackage: "app.mcyj.examprep.glb0107"
+  iosBundleIdentifier: "app.mcyj.examprep.glb0107"
+web:
+  origin: "https://mcyj.github.io"
+  basePath: "/czech-drone-a2-study-web/"
+operations:
+  deployment: "github-pages-static"
